@@ -97,3 +97,9 @@ $ python voice_recog.py
 
 ## Test
 Please talk to pringles-ojisan.
+
+
+# References
+http://qiita.com/masato/items/f089a17b1c9329eb7d03
+http://karaage.hatenadiary.jp/entry/2015/08/24/073000
+http://karaage.hatenadiary.jp/entry/2016/01/27/073000
